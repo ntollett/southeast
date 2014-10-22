@@ -17,7 +17,7 @@ int main(void)
 
 	goSouthEast(&latitude, &longitude);
 
-	printf("Now at [%i %i\n]", latitude, longitude);
+	printf("Now at [%i %i]\n", latitude, longitude);
 
 	return 0;
 }
